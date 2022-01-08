@@ -10,11 +10,9 @@
         },
         "API_ID": {
             "description": "Your API_ID from https://my.telegram.org/apps"
-            "value": "14627413"
         },
         "API_HASH": {
             "description": "Your API_HASH from https://my.telegram.org/apps"
-            "value": "4d5ff4db45a7e931930d0c923a7fb295"
         }
     },
     "buildpacks": [
