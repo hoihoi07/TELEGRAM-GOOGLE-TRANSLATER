@@ -1,0 +1,26 @@
+{
+    "name": "TELEGRAM GOOGLE TRANSLATER",
+    "description": "TELEGRAM GOOGLE TRANSLATER BOT CAN TRANSLATE ANY LANGUAGE TO YOUR SELECTED LANGUAGE,MADE WITH LOVE BY ©LEGEND-ANKIT™",
+    "logo": "https://telegra.ph/file/b002d63974bd05ea7a336.jpg",
+    "repository": "https://github.com/LEGEND-ANKIT/TELEGRAM-GOOGLE-TRANSLATER",
+    "keywords": ["Google Translater", "pyrogram", "telegram bot"],
+    "env": {
+        "TOKEN": {
+            "description": "Your Bot token from @Botfather"
+            "value": ""
+        },
+        "API_ID": {
+            "description": "Your API_ID from https://my.telegram.org/apps"
+            "value": "14627413"
+        },
+        "API_HASH": {
+            "description": "Your API_HASH from https://my.telegram.org/apps"
+            "value": "4d5ff4db45a7e931930d0c923a7fb295"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
