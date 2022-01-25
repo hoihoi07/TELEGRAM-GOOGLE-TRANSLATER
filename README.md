@@ -6,7 +6,7 @@
 
 <details>
   <summary> • ⚡INSTALLING⚡ • </summary>
-  <a href="https://heroku.com/deploy?template=https://github.com/LEGEND-ANKIT/TELEGRAM-GOOGLE-TRANSLATER"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
+  <a href="https://heroku.com/deploy?template=https://github.com/hoihoi07/TELEGRAM-GOOGLE-TRANSLATER"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
   
 </details>
 
